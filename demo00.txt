@@ -1,1 +1,2 @@
 Dit is een voorbeeld bestand met 1 regel code
+Dit is de 2de regel
